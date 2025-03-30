@@ -1,13 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Xujiangjing!
 
-<!--
-**Xujiangjing/Xujiangjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m passionate about software development, learning new technologies, and improving productivity through automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently studying at King's College London!
-- 🌱 I’m currently the second year computer science student!
-- 😄 Pronouns: She/Her
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xujiangjing&layout=donut)](https://github.com/Xujiangjing/github-readme-stats)  
-[![My WakaTime Stats WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xujiangjing)](https://github.com/Xujiangjing/github-readme-stats)
+## ⏱️ My Coding Activity (WakaTime)
+
+[![Xujiangjing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xujiangjing&layout=compact)](https://wakatime.com/@Xujiangjing)
+
+---
+
+## 📊 GitHub Stats
+
+![Xujiangjing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xujiangjing&show_icons=true&theme=default)
+
+---
+
+## 💻 Languages I Use Most
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xujiangjing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+*✨ Profile powered by [WakaTime](https://wakatime.com) & [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
