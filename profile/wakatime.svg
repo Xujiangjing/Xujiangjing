@@ -158,7 +158,7 @@
             data-testid="lang-progress"
             x="0.00"
             y="0"
-            width="169.97"
+            width="169.83"
             height="8"
             fill="#3572A5"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="169.97"
+            x="169.83"
             y="0"
-            width="103.80"
+            width="103.71"
             height="8"
             fill="#f1e05a"
           />
@@ -176,9 +176,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="273.77"
+            x="273.54"
             y="0"
-            width="47.11"
+            width="47.53"
             height="8"
             fill="#858585"
           />
@@ -186,7 +186,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="320.88"
+            x="321.07"
             y="0"
             width="35.90"
             height="8"
@@ -196,7 +196,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="356.78"
+            x="356.97"
             y="0"
             width="29.76"
             height="8"
@@ -206,9 +206,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="386.55"
+            x="386.73"
             y="0"
-            width="12.74"
+            width="12.70"
             height="8"
             fill="#858585"
           />
@@ -216,7 +216,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="399.29"
+            x="399.43"
             y="0"
             width="9.44"
             height="8"
@@ -226,9 +226,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="408.73"
+            x="408.87"
             y="0"
-            width="7.91"
+            width="7.86"
             height="8"
             fill="#083fa1"
           />
@@ -236,7 +236,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="416.64"
+            x="416.73"
             y="0"
             width="7.49"
             height="8"
@@ -246,7 +246,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="424.12"
+            x="424.22"
             y="0"
             width="7.21"
             height="8"
@@ -256,7 +256,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="431.33"
+            x="431.42"
             y="0"
             width="7.02"
             height="8"
@@ -266,9 +266,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.35"
+            x="438.45"
             y="0"
-            width="5.81"
+            width="5.77"
             height="8"
             fill="#b07219"
           />
@@ -276,7 +276,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="444.17"
+            x="444.21"
             y="0"
             width="5.44"
             height="8"
@@ -286,7 +286,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="449.61"
+            x="449.65"
             y="0"
             width="3.21"
             height="8"
@@ -296,9 +296,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="452.82"
+            x="452.86"
             y="0"
-            width="2.19"
+            width="2.14"
             height="8"
             fill="#cb171e"
           />
@@ -463,7 +463,7 @@
       <g transform="translate(25, 25)">
         <circle cx="5" cy="6" r="5" fill="#858585" />
         <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          Other - 9 hrs 24 mins
+          Other - 9 hrs 29 mins
         </text>
       </g>
     
