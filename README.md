@@ -1,11 +1,12 @@
 # 👋 Hi there, I'm Xujiangjing!
 
-🎓 Final-year Computer Science student at King’s College London  
+🎓 Currently pursuing an MSc in Artificial Intelligence at the University of Edinburgh
+🎓 Graduated with First Class Honours in BSc Computer Science at King's College London
 
 🔬 Research interests:
 Formal methods · Automated reasoning · Systems · AI  
 
-⚙️ Current work:
+⚙️ Research & Projects:
 - Fuzzing theorem provers (Isabelle, Zipperposition, Vampire)
 - Exploring bugs in ATP pipelines and proof translation
 - Operating systems (virtual memory, ELF loading, page faults)
