@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Xujiangjing!
 
-🎓 Currently pursuing an MSc in Artificial Intelligence at the University of Edinburgh
+🎓 Currently pursuing an MSc in Artificial Intelligence at the University of Edinburgh  
 🎓 Graduated with First Class Honours in BSc Computer Science at King's College London
 
 🔬 Research interests:
