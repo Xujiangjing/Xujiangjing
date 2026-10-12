@@ -3,10 +3,10 @@
 🎓 Currently pursuing an MSc in Artificial Intelligence at the University of Edinburgh  
 🎓 Graduated with First Class Honours in BSc Computer Science at King's College London
 
-🔬 Research interests:
-Formal methods · Automated reasoning · Systems · AI  
+🔬 **Research Interests:**  
+Machine Learning · Reinforcement Learning · AI Agents · ML Systems
 
-⚙️ Research & Projects:
+⚙️ **Research & Projects:**  
 - Fuzzing theorem provers (Isabelle, Zipperposition, Vampire)
 - Exploring bugs in ATP pipelines and proof translation
 - Operating systems (virtual memory, ELF loading, page faults)
